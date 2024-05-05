@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52b6e9e4-4bbc-4a9e-b2aa-fcf355de5524" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/enigma/jdbc/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/enigma/jdbc/config/DBConnector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/enigma/jdbc/crud/crud.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Contoh.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exception.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExceptionChaining.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/enigma/jdbc/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/enigma/jdbc/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +116,8 @@
       <workItem from="1714150668921" duration="1408000" />
       <workItem from="1714153060577" duration="10615000" />
       <workItem from="1714228803757" duration="681000" />
-      <workItem from="1714521964168" duration="5256000" />
+      <workItem from="1714521964168" duration="8734000" />
+      <workItem from="1714706104646" duration="22511000" />
     </task>
     <servers />
   </component>
