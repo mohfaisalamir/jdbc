@@ -88,3 +88,5 @@ public class crud {
         } catch (SQLException e) {
             throw new RuntimeException(e);
         }*/
+// BERIKUT ADALAH CRUD MENGGUNAKAN DATA YANG FLEKSIBEL (BISA DIINPUT)
+
